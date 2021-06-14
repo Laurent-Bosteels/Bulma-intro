@@ -10,15 +10,15 @@ Goal is to make a beautiful product page while learning the basics of the framew
 - [x] Spacing & containers
 - [x] Navbar desktop
 - [x] Navbar mobile
-- [] Breadcrumbs
-- [] Grid columns
-- [] Responsive classes
-- [] Tabbed content
-- [] Message boxes
-- [] Buttons
-- [] Cards
-- [] Modals
-- [] Forms
-- [] Footer
+- [ ] Breadcrumbs
+- [ ] Grid columns
+- [ ] Responsive classes
+- [ ] Tabbed content
+- [ ] Message boxes
+- [ ] Buttons
+- [ ] Cards
+- [ ] Modals
+- [ ] Forms
+- [ ] Footer
 
 
