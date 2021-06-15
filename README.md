@@ -11,12 +11,12 @@ Goal is to make a beautiful product page while learning the basics of the framew
 - [x] Navbar desktop
 - [x] Navbar mobile
 - [x] Breadcrumbs
-- [ ] Grid columns
-- [ ] Responsive classes
-- [ ] Tabbed content
-- [ ] Message boxes
-- [ ] Buttons
-- [ ] Cards
+- [x] Grid columns
+- [x] Responsive classes
+- [x] Tabbed content
+- [x] Message boxes
+- [x] Buttons
+- [x] Cards
 - [ ] Modals
 - [ ] Forms
 - [ ] Footer
