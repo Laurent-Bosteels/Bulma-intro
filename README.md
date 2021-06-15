@@ -17,8 +17,8 @@ Goal is to make a beautiful product page while learning the basics of the framew
 - [x] Message boxes
 - [x] Buttons
 - [x] Cards
-- [ ] Modals
-- [ ] Forms
-- [ ] Footer
+- [x] Modals
+- [x] Forms
+- [x] Footer
 
 
